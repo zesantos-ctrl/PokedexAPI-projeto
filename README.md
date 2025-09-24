@@ -9,8 +9,7 @@ Este é um projeto em grupo com o objetivo de desenvolver uma **API de Pokédex*
 
 A ideia é criar uma aplicação organizada, escalável e acessível, que possa ser utilizada para estudos ou como base para aplicações maiores.
 
-## 👨‍💻<img width="60" height="60" alt="ChatGPT Image 24 de set  de 2025, 18_29_09" src="https://github.com/user-attachments/assets/9087bcfb-44bf-4ab9-80e7-2c00d458e675" />
- Integrantes do Grupo
+## 👨‍💻<img width="40" height="40" alt="ChatGPT Image 24 de set  de 2025, 18_29_09" src="https://github.com/user-attachments/assets/9087bcfb-44bf-4ab9-80e7-2c00d458e675" /> Integrantes do Grupo
 
 - José Santos *(https://github.com/zesantos-ctrl)*
 - Ingrid Bini *(https://github.com/fbini)*
