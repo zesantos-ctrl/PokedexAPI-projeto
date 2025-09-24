@@ -1,5 +1,4 @@
 
-#![download](https://github.com/user-attachments/assets/b676d577-576f-4a29-b0c6-539ea8bc38b6)
 
 # ![charmander_shiny](https://github.com/user-attachments/assets/4f638400-7186-447b-bdb6-004348aa83df) PokedexAPI - Projeto de Grupo
  
