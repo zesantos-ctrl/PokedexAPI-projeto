@@ -15,7 +15,7 @@ A ideia é criar uma aplicação organizada, escalável e acessível, que possa 
 - Gabriel com K *(https://github.com/Gabrielcomk)*
 - Julia Souza *(https://github.com/JuuhSouza)*
 
-## <img width="24" height="28" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/dd119e24-6dc0-4401-85a6-7b2c20072ebd" /> Tecnologias Utilizadas
+## <img width="45" height="48" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/dd119e24-6dc0-4401-85a6-7b2c20072ebd" /> Tecnologias Utilizadas
 
 
 - Java 
