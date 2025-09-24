@@ -1,4 +1,5 @@
 
+<img width="816" height="274" alt="Screenshot_2025-09-24_152523-removebg-preview" src="https://github.com/user-attachments/assets/2c31c29c-38b1-4523-9bf8-75e2ac7a53e5" />
 
 # ![charmander_shiny](https://github.com/user-attachments/assets/4f638400-7186-447b-bdb6-004348aa83df) PokedexAPI - Projeto de Grupo
  
